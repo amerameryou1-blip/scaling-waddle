@@ -1,9 +1,12 @@
 .next/
+.open-next/
+.wrangler/
 node_modules/
 out/
 dist/
 coverage/
 
+.dev.vars
 .env
 .env*
 !.env.example
